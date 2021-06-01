@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cs310pa1",
+            "request": "launch",
+            "mainClass": "cs310pa1",
+            "projectName": "CS310-pa01-summer2020-master copy_c7953998",
+            "args": "poly/tree01.poly poly/tree02.poly poly/tree03.poly poly/tree04.poly poly/tree10.poly  poly/tree06.poly poly/tree07.poly poly/tree08.poly poly/tree09.poly    poly/tree05.poly  poly/nazca_monkey.poly"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "poly/box1.poly poly/box2.poly"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SimpleLinkedList<CS310-pa01-summer2020-master_13aef01d>",
+            "request": "launch",
+            "mainClass": "SimpleLinkedList",
+            "projectName": "CS310-pa01-summer2020-master_13aef01d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cs310pa1<CS310-pa01-summer2020-master_13aef01d>",
+            "request": "launch",
+            "mainClass": "cs310pa1",
+            "projectName": "CS310-pa01-summer2020-master_13aef01d"
+        }
+    ]
+}
